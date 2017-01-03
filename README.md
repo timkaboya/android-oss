@@ -1,5 +1,7 @@
 # Kickstarter for Android™
 
+Just a test commit from Me, myself and I
+
 [![CircleCI](https://circleci.com/gh/kickstarter/android-oss.svg?style=svg)](https://circleci.com/gh/kickstarter/android-oss)
 
 Welcome to Kickstarter's open source Android app! Come on in, take your shoes
